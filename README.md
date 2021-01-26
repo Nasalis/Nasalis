@@ -8,5 +8,5 @@ Hello there! I am Davi dos Santos, a brazilian developer student, 18. I started 
 
 Details about my repositories:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nasalis&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasalis&langs_count=6&show_icons=true&theme=gruvbox)]
