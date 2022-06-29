@@ -4,7 +4,7 @@
 **Nasalis/Nasalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hello there! I am Davi dos Santos, a brazilian developer student, 18. I started my studies in programing in 23th  of january, 2020. Currently my focus is concentrated to learn web develop.
+Hello there! I am Davi dos Santos, a brazilian developer student, 20. I started my studies in programing in 23th  of january, 2020. Currently my focus is concentrated to learn web develop.
 
 Details about my repositories:
 
